@@ -1,0 +1,23 @@
+ “ zh ”： “ TFT是ConsenLabs所属用户社群品牌“ TokenFans通粉俱乐部”的会员勋章，目前仅由官方渠道发行，不可分割，不支持交易。”
+  }，
+  “电子邮件”： “ support@consenlabs.com ”，
+  “网站”： “ https://token.im/ ”，
+  “白皮书”： “ https://token.im/ ”，
+  “ state ”： “ NORMAL ”，
+  “ published_on ”： “ 2018-03-20 ”，
+  “ initial_price ”：{
+        “ ETH ”： “ 0.666 ETH ”，
+        “ USD ”： “ 0.666 USD ”，
+        “ BTC ”： “ 0.666 BTC ”
+  }，
+  “链接”：{
+    “博客”： “ https://medium.com/consenlabs ”，
+    “ twitter ”： “ https://twitter.com/ConsenLabs ”，
+    “电报”： “ https://t.me/imTokenGroup ”，
+    “ reddit ”： “ https://www.reddit.com/r/imToken/ ”，
+    “ github ”： “ https://github.com/consenlabs ”，
+    “ facebook ”： “ https://www.facebook.com/imToken.consenlabs ”，
+    “ slack ”： “ https://imtoken.slack.com ”，
+    “中等”： “ https://medium.com/imtoken ”
+  }
+}
